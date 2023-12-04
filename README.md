@@ -1,6 +1,5 @@
 ## Education
-- M.S. Business Analytics | Drake University
-  
+- M.S. Business Analytics | Drake University 
 - B.A. Computer Science | Grand View University
 
 ## Work Experience
