@@ -1,6 +1,6 @@
 ## Education
-- M.S. Business Analytics | Drake University 
-- B.A. Computer Science | Grand View University
+- M.S. Business Analytics | Drake University Des Moines, IA
+- B.A. Computer Science | Grand View University Des Moines, IA
 
 ## Skills
 - Python
@@ -29,5 +29,5 @@
 - Data migration’s & mapping for client environments
 
 ## Projects
-###Aircraft Strikes EDA
-  [Link](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb)
+-[Aircraft Strikes EDA](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb)
+
