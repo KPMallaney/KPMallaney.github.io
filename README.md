@@ -13,7 +13,7 @@
 - On-boarded new client agreements
 - Scheduled maintenance windows and resources for client updates and outages
 - Managed documentation and meetings for Projects
-- Report generation for Project Review
+- Report generation for Project Review, Invoicing, and Certifications.
 
 **Interim Manager | Associated Computer Systems**
 - Managed a team of 9
