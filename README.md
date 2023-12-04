@@ -5,6 +5,7 @@
 ## Skills
 - Python
   - Pandas
+  - Seaborn
 
 ## Work Experience
 **Project Coordinator | Associated Computer Systems**
