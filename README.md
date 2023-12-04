@@ -29,5 +29,5 @@
 - Data migration’s & mapping for client environments
 
 ## Projects
-- [Aircraft Strikes EDA](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb): Exploritary data analysis of an Airstrike Wildlife Strikes dataset from Kaggle which cant be found here: [Dataset](https://www.kaggle.com/datasets/dianaddx/aircraft-wildlife-strikes-1990-2023)
+- [Aircraft Strikes EDA](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb): Exploratory Data Analysis of an Airstrike Wildlife Strikes dataset from Kaggle which cant be found here: [Dataset](https://www.kaggle.com/datasets/dianaddx/aircraft-wildlife-strikes-1990-2023)
 
