@@ -27,6 +27,7 @@
 - [Aircraft Strikes EDA](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb): Exploratory Data Analysis using Python of an Airstrike Wildlife Strikes dataset from Kaggle which cant be found here: [Dataset](https://www.kaggle.com/datasets/dianaddx/aircraft-wildlife-strikes-1990-2023)
 - [U.S. Tornado EDA] Exploratory Data Analysis using Python of a tornado dataset documenting tornados that have occured in the U.S. between 1950 and 2021.
 - [Next Project] To be completed.
+
 ## Skills
 - Python
   - Pandas
