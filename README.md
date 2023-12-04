@@ -3,7 +3,7 @@
 - B.A. Computer Science   Grand View University
 
 ### Work Experience
-**Project Coordinator | Associated Computer Systems
+**Project Coordinator | Associated Computer Systems**
 - Coordinated internal resources for many large IT Projects
 - On-boarded new client agreements
 - Scheduled maintenance windows and resources for client updates and outages
