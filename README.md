@@ -1,6 +1,6 @@
 ## Education
-- M.S. Business Analytics | Drake University Des Moines, IA
-- B.A. Computer Science | Grand View University Des Moines, IA
+M.S. Business Analytics | Drake University Des Moines, IA
+B.A. Computer Science | Grand View University Des Moines, IA
 
 ## Work Experience
 **Project Coordinator | Associated Computer Systems**
