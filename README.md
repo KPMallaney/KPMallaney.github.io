@@ -34,6 +34,6 @@
 - [Next Project] To be completed.
 
 ## Certifications
-- Google Data Analytics Certificate
-- IBM Data Science Foundations
-- PMI Wicked Problem Solving Practitioner
+- [Google Data Analytics Certificate](https://www.credly.com/earner/earned/badge/f2651218-154e-47d9-8d6c-bf9ea390c9b6)
+- [IBM Data Science Foundations](https://www.credly.com/earner/earned/badge/7aef85f6-d8fc-4051-80f7-ca913b9c0f07)
+- [PMI Wicked Problem Solving Practitioner](https://www.credly.com/earner/earned/badge/cb51d54a-ef34-426d-a7e1-78b83f8150e6)
