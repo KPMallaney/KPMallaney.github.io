@@ -10,3 +10,4 @@
 
 ### Projects
 - Aircraft Strikes EDA
+  [Link](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb)
