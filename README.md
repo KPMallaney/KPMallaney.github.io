@@ -28,11 +28,6 @@
 - [U.S. Tornado EDA] Exploratory Data Analysis using Python of a tornado dataset documenting tornados that have occured in the U.S. between 1950 and 2021.
 - [Next Project] To be completed.
 
-## Skills
-- Python
-  - Pandas
-  - Seaborn
-
 ## Certifications
 - Google Data Analytics Certificate
 - IBM Data Science Foundations
