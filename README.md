@@ -2,6 +2,10 @@
 - M.S. Business Analytics | Drake University 
 - B.A. Computer Science | Grand View University
 
+## Skills
+- Python
+  - Pandas
+
 ## Work Experience
 **Project Coordinator | Associated Computer Systems**
 - Coordinated internal resources for many large IT Projects
