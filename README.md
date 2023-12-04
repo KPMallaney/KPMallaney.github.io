@@ -1,9 +1,9 @@
-### Education
+## Education
 - M.S. Business Analytics | Drake University
   
 - B.A. Computer Science | Grand View University
 
-### Work Experience
+## Work Experience
 **Project Coordinator | Associated Computer Systems**
 - Coordinated internal resources for many large IT Projects
 - On-boarded new client agreements
@@ -24,6 +24,6 @@
 - Windows 10 Issue resolution
 - Data migration’s & mapping for client environments
 
-### Projects
-**Aircraft Strikes EDA**
+## Projects
+###Aircraft Strikes EDA
   [Link](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb)
