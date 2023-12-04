@@ -29,5 +29,5 @@
 - Data migration’s & mapping for client environments
 
 ## Projects
-- [Aircraft Strikes EDA](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb)
+- [Aircraft Strikes EDA](https://github.com/KPMallaney/KPMallaney.github.io/blob/main/AircraftStrikes.ipynb) Exploritary data analysis of an Airstrike Wildlife Strikes dataset.
 
